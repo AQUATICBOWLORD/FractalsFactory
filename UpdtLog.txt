@@ -1,3 +1,5 @@
+Version 1.1.0
+
 New Teleporter Item
 Reworked Robot Fractal
 Disabled Green Cog Generators in Heart Mode
@@ -6,3 +8,4 @@ Lowered Broomy's volume
 Fractal's music now plays when in sight
 The guard rails on the stairs nolonger block vision for NPCs
 Made credits 30 seconds instead of the 60 originally
+I accidentally broke anything relating to GitHub so i fixed those
