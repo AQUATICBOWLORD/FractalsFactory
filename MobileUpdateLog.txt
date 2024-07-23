@@ -1,0 +1,5 @@
+MOBILE VERSION
+
+hello!! this version will NOT be updated past v1.1.0,
+if any updates come out on the main game, this wont be
+updated
